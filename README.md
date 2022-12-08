@@ -7,6 +7,8 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 
+![coding](https://user-images.githubusercontent.com/19994238/206427540-d39b5d1d-f7bb-48d3-8edc-5d498c7b1b42.gif)
+
 <!--
 **DavDo/DavDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
