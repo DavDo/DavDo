@@ -9,8 +9,6 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavDo&show_icons=true&theme=dark) -->
 
-![coding](https://user-images.githubusercontent.com/19994238/206427540-d39b5d1d-f7bb-48d3-8edc-5d498c7b1b42.gif)
-
 <!--
 **DavDo/DavDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
