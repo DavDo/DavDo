@@ -1,7 +1,8 @@
 <!--### Hi there 👋-->
+## 📈 GitHub Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DavDo&show_icons=true&rank_icon=github&show=reviews&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DavDo&show_icons=true&rank_icon=github&show=reviews&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+##
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
